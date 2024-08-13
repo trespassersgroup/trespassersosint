@@ -37,3 +37,4 @@ typing_extensions==4.12.2
 urllib3==2.2.2
 w3lib==2.2.1
 zope.interface==7.0.1
+colorama==0.4.6
